@@ -1,0 +1,8 @@
+16:35:42,046 17. 3. 2022 5000 Pointer producer consumer Read Write Serial Port.vi<ERR>
+Read timeuot, 0 bytes received
+16:35:44,269 17. 3. 2022 5000 Pointer producer consumer Read Write Serial Port.vi<ERR>
+Read timeuot, 0 bytes received
+16:35:45,501 17. 3. 2022 5000 Pointer producer consumer Read Write Serial Port.vi<ERR>
+Read timeuot, 0 bytes received
+16:36:15,487 17. 3. 2022 -1073807343 Property Node (arg 1) in VISA Configure Serial Port (Instr).vi->Pointer producer consumer Open Serial Port.vi->Pointer MAIN producer consumer.vi
+16:36:16,607 17. 3. 2022 -1073807343 VISA Flush I/O Buffer in Pointer producer consumer Read Write Serial Port.vi->Pointer producer consumer Read Voltage.vi->Pointer MAIN producer consumer.vi
